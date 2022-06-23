@@ -1,0 +1,1 @@
+# kadai10_PHP_EC
